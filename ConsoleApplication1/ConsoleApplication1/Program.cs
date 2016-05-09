@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
 
             Console.WriteLine("Testing Git");
+            Console.WriteLine("Hello world");
         }
     }
 }
